@@ -1,0 +1,31 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+
+}
+
+h1 , h2, h3{
+    text-align: center;
+
+}
+
+p {
+    background-color: lightgreen;
+}
+
+img {
+    border: 4px lightgreen solid;
+    border-radius: 10px;
+}
+
+
+pre {
+    background-color: lightgreen;
+}
+
+a{
+    color: purple;
+    font-size: large;
+    background-color: lightgreen;
+}
+
