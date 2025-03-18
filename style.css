@@ -29,3 +29,13 @@ a{
     background-color: lightgreen;
 }
 
+form{
+    border: 4px lightgreen solid;
+}
+
+input{
+    color: purple;
+}
+
+
+
